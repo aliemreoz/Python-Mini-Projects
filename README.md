@@ -28,4 +28,5 @@ Developed By: Ali Emre Öz, Büşra Son
 
 * ## [Paint](https://github.com/aliemreoz/python-mini-projects/tree/master/Mini%20Project%207)
 *Tkinter, Events*
+
 <img src="https://raw.githubusercontent.com/aliemreoz/python-mini-projects/master/Mini%20Project%207/Screenshot_7.png" width="590" height="357" />
